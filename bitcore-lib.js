@@ -26052,7 +26052,7 @@ module.exports={
   "_resolved": "https://registry.npmjs.org/elliptic/-/elliptic-6.4.1.tgz",
   "_shasum": "c2d0b7776911b86722c632c3c06c60f2f819939a",
   "_spec": "elliptic@^6.0.0",
-  "_where": "/Users/user/dev/blockchain/alkion/bithao-lib/node_modules/browserify-sign",
+  "_where": "/Users/user/dev/blockchain/alkion/alkion-lib/node_modules/browserify-sign",
   "author": {
     "name": "Fedor Indutny",
     "email": "fedor@indutny.com"
@@ -28642,7 +28642,7 @@ module.exports={
   "_resolved": "https://registry.npmjs.org/elliptic/-/elliptic-6.4.1.tgz",
   "_shasum": "c2d0b7776911b86722c632c3c06c60f2f819939a",
   "_spec": "elliptic@^6.0.0",
-  "_where": "/Users/user/dev/blockchain/alkion/bithao-lib/node_modules/create-ecdh",
+  "_where": "/Users/user/dev/blockchain/alkion/alkion-lib/node_modules/create-ecdh",
   "author": {
     "name": "Fedor Indutny",
     "email": "fedor@indutny.com"
@@ -32600,7 +32600,7 @@ module.exports={
   "_resolved": "https://registry.npmjs.org/elliptic/-/elliptic-3.0.3.tgz",
   "_shasum": "865c9b420bfbe55006b9f969f97a0d2c44966595",
   "_spec": "elliptic@=3.0.3",
-  "_where": "/Users/user/dev/blockchain/alkion/bithao-lib",
+  "_where": "/Users/user/dev/blockchain/alkion/alkion-lib",
   "author": {
     "name": "Fedor Indutny",
     "email": "fedor@indutny.com"
@@ -54400,7 +54400,7 @@ module.exports={
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/alkion-project/bithao-lib.git"
+        "url": "https://github.com/alkion-project/alkion-lib.git"
     },
     "browser": {
         "request": "browser-request"
