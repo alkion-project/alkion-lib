@@ -4672,7 +4672,7 @@ addNetwork({
     alias: 'mainnet',
     coin: 'alk',
     url: 'alkion:',
-    coinName: 'ALKION',
+    coinName: 'SUPERALKI',
     shortName: 'ALK',
     prefix: 'K',
     txtimestamp: false,
